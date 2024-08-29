@@ -1,0 +1,6 @@
+projectKey=team_7_project_1
+serverUrl=http://localhost:8889
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:8889/dashboard?id=team_7_project_1
+ceTaskId=47f5dce9-f474-4d4a-becf-e3b51a7d9350
+ceTaskUrl=http://localhost:8889/api/ce/task?id=47f5dce9-f474-4d4a-becf-e3b51a7d9350
